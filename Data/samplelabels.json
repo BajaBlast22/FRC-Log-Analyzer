@@ -1,0 +1,22 @@
+[
+    {
+        "signal": "voltageV",
+        "startS": 0.8,
+        "endS": 1.1
+    },
+    {
+        "signal": "currentA",
+        "startS": 1.6,
+        "endS": 1.9
+    },
+    {
+        "signal": "voltageV",
+        "startS": 2.4,
+        "endS": 2.7
+    },
+    {
+        "signal": "currentA",
+        "startS": 3.2,
+        "endS": 3.5
+    }
+]
